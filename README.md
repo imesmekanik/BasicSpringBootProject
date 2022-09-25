@@ -8,6 +8,7 @@ Note that:
   - Postgresql and its driver with dependency is used for database connection.
   - Spring Boot version is: 2.7.4
   - Port: 9090 is used to map
+  - Database name: KariyerDB
 
 Briefly, this is an basic job application program which consists of User, Job and Application entities and its basic operations.
 MVC and CRUD are used during development.
